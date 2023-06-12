@@ -13,6 +13,6 @@ Introduction:
 	The fact is, old age homes in India, finely serve as the home with safety and security in a much better way for elderly people. 
 I have developed a .Net web application that is "Jivhala Old Age Home" website to live old people as like SUNITA SHARMA(+65 years old) ) to live a healthier and better life.
 
-Technology: .NET (MVC based Web Application)
+Technology: .NET (MVC based Web Application), Html, CSS, Javascript, JQuery, Bootstrap
 
 SCREENSHOTS:  I have uplaoded Screenshots pdf in this repository.
